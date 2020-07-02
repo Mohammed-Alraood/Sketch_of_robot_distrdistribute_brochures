@@ -1,5 +1,7 @@
 # Sketch_of_robot_distrdistribute_brochures
 This is a part of the Smart Methods training,  
+The process of distributing the brochure is by holding the them in one hand which is the left hand and giving them to people using the right hand as it's shown in the sketch attached above. 
+the motor will be use is 
 MG995 High Speed Metal Gear Dual Ball Bearing Servo
 for the joint of the upper parts of the Puppy Robot, and the reasons of choosing this servo are:
 1. The connection cable is thicker.
